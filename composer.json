@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "fv\\yii2\\jsdata\\": "src//"
+            "fv\\yii\\jsdata\\": "src//"
         }
     }
 }

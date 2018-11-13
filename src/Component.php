@@ -1,6 +1,6 @@
 <?php
 
-namespace fv\yii2\jsdata;
+namespace fv\yii\jsdata;
 
 use yii\web\View;
 

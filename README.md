@@ -23,7 +23,7 @@ your web app configuration:
 [
 	'components' => [
 		'jsdata' => [
-			'class' => \fv\yii2\jsdata\Component::class,
+			'class' => \fv\yii\jsdata\Component::class,
 		],
 	]
 ]
