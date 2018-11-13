@@ -1,0 +1,16 @@
+{
+    "name": "flaviovs/yii2-jsdata",
+    "description": "Pass data from a Yii 2.0 application to client JavaScript",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flavio Veloso",
+            "email": "flaviovs@magnux.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "fv\\yii2\\jsdata\\": "src//"
+        }
+    }
+}
